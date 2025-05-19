@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>OptimusInvoice</string>
+	<key>CFBundleExecutable</key>
+	<string>OptimusInvoice</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-01005d7ff8a355414c68e2dca7aaa31bf7e04fd8037a999590393c1963b8b9d9.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.johngavin78.OptimusInvoice</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CLKComplicationPrincipalClass</key>
+	<string>OptimusInvoice</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
